@@ -17,7 +17,7 @@ cd currency-exchange-rates
 
 Install Dependencies:
 
-Make sure you have [Node JS](https://github.com/facebook/create-react-app). installed. Then, install the project dependencies using npm or yarn:
+Make sure you have [Node JS](https://nodejs.org/en) installed. Then, install the project dependencies using npm or yarn:
 
 ```bash
 npm install
