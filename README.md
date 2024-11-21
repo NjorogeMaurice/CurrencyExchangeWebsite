@@ -10,7 +10,7 @@ This is a simple one-page application that displays a list of all currencies fro
 
 ```bash
 git clone https://github.com/NjorogeMaurice/CurrencyExchangeWebsite.git
-cd currency-exchange-rates
+cd CurrencyExchangeWebsite
 ```
 
 ### Install Dependencies:
@@ -29,6 +29,6 @@ Start the development server:
 npm start
 ```
 
-This will launch the application at http://localhost:3000.
+This will launch the application at http://localhost:3000
 
 
